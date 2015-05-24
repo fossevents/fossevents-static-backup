@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://fossevents.in"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Seeing the light..... - Hackathon</title>
+ <link>http://fossevents.in/taxonomy/term/2/0</link>
+ <description>Hackathon type of event</description>
+ <language>en</language>
+<item>
+ <title>Firefox OS App Days, Delhi</title>
+ <link>http://fossevents.in/node/440</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Sun, 27/01/2013 - &lt;span class=&quot;date-display-start&quot;&gt;10:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;19:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Firefox OS App Days, Delhi&lt;br /&gt;
+The Delhi edition of the Firefox OS App Days global sprints.&lt;/p&gt;
+&lt;p&gt;At App Days, We introduce you to the new Firefox OS and get you started with making apps for the platform.&lt;/p&gt;
+&lt;p&gt;Venue will be Bharati Vidyapeeth’s College of Engineering, Paschim Vihar.&lt;/p&gt;
+&lt;p&gt;Schedule&lt;br /&gt;
+10:00am Check in.&lt;br /&gt;
+10:30am Introduction to Firefox OS &amp;amp; Apps Marketplace&lt;br /&gt;
+11:00 – 12:30pm Sessions&lt;br /&gt;
+12:30 – 1:00pm lunch&lt;br /&gt;
+1-5pm: app hacking&lt;br /&gt;
+5-7pm: demos &amp;amp; party-time.&lt;/p&gt;
+&lt;p&gt;Details to register here &lt;a href=&quot;http://delhi.mozillaindia.org/firefox-os-app-days-delhi/&quot; title=&quot;http://delhi.mozillaindia.org/firefox-os-app-days-delhi/&quot;&gt;http://delhi.mozillaindia.org/firefox-os-app-days-delhi/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Fri, 25 Jan 2013 05:12:48 +0000</pubDate>
+ <dc:creator>administrator</dc:creator>
+ <guid isPermaLink="false">440 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>FOSSMeet 2013</title>
+ <link>http://fossevents.in/node/436</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Fri, 22/02/2013 - 17:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 24/02/2013 - 18:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;FOSSMeet is an annual event at NIT Calicut that brings together the Free and Open Source Community from around the country. It was started in 2005 to encourage contribution to free and open source software. The last 7 editions were hugely successful and brought together a lot of enthusiasts.&lt;/p&gt;
+&lt;p&gt;Upholding the philosophy of FOSS, the event will have talks and workshops dealing with the current trends in FOSS and open hardware, hands-on sessions to develop skills and a place to meet like minded people.&lt;/p&gt;
+&lt;p&gt;Visit &lt;a href=&quot;http://fossmeet.in&quot; title=&quot;http://fossmeet.in&quot;&gt;http://fossmeet.in&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/1">Conference</category>
+ <category domain="http://fossevents.in/taxonomy/term/6">Exhibition</category>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <category domain="http://fossevents.in/taxonomy/term/4">Meetup</category>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <category domain="http://fossevents.in/taxonomy/term/5">Workshop</category>
+ <pubDate>Sat, 19 Jan 2013 08:19:19 +0000</pubDate>
+ <dc:creator>shamilcm</dc:creator>
+ <guid isPermaLink="false">436 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Events/MediaWiki Code Sprint - Kolkata</title>
+ <link>http://fossevents.in/node/432</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Sat, 05/01/2013 - &lt;span class=&quot;date-display-start&quot;&gt;10:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;13:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The newly formed Mozilla Community of Kolkata is organizing a 2 day ( Jan 5 - Jan 6 ) event dedicated to Free and Open Source Software and various Mozilla initiatives, where participants will get chance to interact with professional developers and renowned FOSS activists as well as some Mozilla Representatives from the Mozilla India Community. And they want to have a MediaWiki part as well and  So, a workshop on MediaWiki there with 10-15 students maybe. It would be great to have your support, and suggestions are welcome too.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/432&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Thu, 03 Jan 2013 03:37:49 +0000</pubDate>
+ <dc:creator>administrator</dc:creator>
+ <guid isPermaLink="false">432 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Ayana &#039;12</title>
+ <link>http://fossevents.in/node/324</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Sat, 28/04/2012 - 09:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 29/04/2012 - 20:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Ayana 2012 is a technical event with emphasis on Open Source Technologies being organized by the PES Open Source Community, with the backing of The Department of Computer Science, PES Institute of Technology, Bangalore.&lt;br /&gt;
+It would consist of two parts – A string of Tech Talks by active Open Source Contributors and Hardware hackers from across India, and a 24 hour Hackathon. Prizes upto 50k up for grabs!&lt;br /&gt;
+ps. Special surprises in store for FOSS enthusiasts  :)&lt;br /&gt;
+For more details, visit &lt;a href=&quot;http://ayana.pes.edu/&quot;&gt;Ayana &#039;12 Website&lt;/a&gt;&lt;br /&gt;
+For any queries, join us @ #pes-os on freenode.net&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Sun, 22 Apr 2012 13:53:49 +0000</pubDate>
+ <dc:creator>shrikrishna_holla</dc:creator>
+ <guid isPermaLink="false">324 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Crafts Museum Wikipedia edit-a-thon!</title>
+ <link>http://fossevents.in/node/323</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Sat, 21/04/2012 - &lt;span class=&quot;date-display-start&quot;&gt;14:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;18:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Inviting everyone interested to the first ever GLAM edit-a-thon at the Crafts Museum, New Delhi on 21st April, 2012 (Saturday)! &lt;/p&gt;
+&lt;p&gt;This is a session to learn and edit Wikipedia articles related to various craft practices of India. If you love textiles, pottery, weaving and sculpture, here&#039;s your golden chance to visit India&#039;s finest collection of craft objects and collaborate to write articles on them! You will also meet actual craftsmen who make these objects! Bring your laptops and friends along :) &lt;/p&gt;
+&lt;p&gt;When: 21st April (Saturday)&lt;br /&gt;
+Where: Crafts Museum, Pragati Maidan&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/323&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Fri, 20 Apr 2012 17:54:57 +0000</pubDate>
+ <dc:creator>administrator</dc:creator>
+ <guid isPermaLink="false">323 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>[Wikimediaindia-l] Pune hackathon scheduled 10-12 February 2012</title>
+ <link>http://fossevents.in/node/315</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Thu, 10/02/2011 - 09:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 12/02/2012 - 16:30&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Join the Wikipedia development community in Pune.&lt;/p&gt;
+&lt;p&gt;Wikimedia is holding a technical meetup in Pune, India alongside the GNUnify conference. This hackathon is a chance to learn how to develop using MediaWiki, Phonegap and our other technologies, and to work alongside experts. Software engineers, designers, and translators are welcome!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/315&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Mon, 26 Dec 2011 12:44:16 +0000</pubDate>
+ <dc:creator>pravin1389</dc:creator>
+ <guid isPermaLink="false">315 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>5 day internship on foss technologies.</title>
+ <link>http://fossevents.in/node/312</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Tue, 14/12/2010 - 09:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sat, 18/12/2010 - 05:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Technovus a leading open source development and training company offer 5 day internship on foss technologies..for more details visit..www.technovus.in&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Sun, 27 Nov 2011 03:20:47 +0000</pubDate>
+ <dc:creator>Chidambaresan</dc:creator>
+ <guid isPermaLink="false">312 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Fedora Users and Developer&#039;s Conference , ( FUDCON,  Pune )</title>
+ <link>http://fossevents.in/node/298</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Fri, 04/11/2011 - 09:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 06/11/2011 - 18:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;FUDCon is the Fedora Users and Developer&#039;s Conference, an opportunity for all who contribute to or use Fedora to meet, learn, plan, and hack. This event is free and is open to everyone. To learn about what a FUDCon is like, you can view a video from the North American FUDCon 2009. Please read &lt;a href=&quot;https://fedoraproject.org/wiki/FUDCon_organization_process&quot; title=&quot;https://fedoraproject.org/wiki/FUDCon_organization_process&quot;&gt;https://fedoraproject.org/wiki/FUDCon_organization_process&lt;/a&gt; and understand it thoroughly if you are a event organizing volunteer. If you are responsible for finding a good place, refer to the requirements listed in &lt;a href=&quot;https://fedoraproject.org/wiki/FUDCon/Organization&quot; title=&quot;https://fedoraproject.org/wiki/FUDCon/Organization&quot;&gt;https://fedoraproject.org/wiki/FUDCon/Organization&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/298&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/1">Conference</category>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <category domain="http://fossevents.in/taxonomy/term/5">Workshop</category>
+ <pubDate>Mon, 26 Sep 2011 07:14:47 +0000</pubDate>
+ <dc:creator>satyaakam</dc:creator>
+ <guid isPermaLink="false">298 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>conf.kde.in 2011</title>
+ <link>http://fossevents.in/node/3</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Wed, 09/03/2011 - 14:30&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 13/03/2011 - 01:30&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The KDE® Community is an international technology team dedicated towards creating a free and user-friendly computing experience.&lt;/p&gt;
+&lt;p&gt;KDE-India is a group of volunteers who are a part of this community, and have been meeting up at various FOSS events in India and abroad. Over the last few years, there has been a substantial increase in contributions to KDE from India to various avenues like coding, localization, marketing, website/infrastructure maintenance etc. There has also been a lot of contributions as a part of programmes like Google Summer of Code and Season of KDE.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/3&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/1">Conference</category>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <pubDate>Wed, 26 Jan 2011 19:13:52 +0000</pubDate>
+ <dc:creator />
+ <guid isPermaLink="false">3 at http://fossevents.in</guid>
+</item>
+</channel>
+</rss>

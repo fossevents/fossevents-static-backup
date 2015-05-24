@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://fossevents.in"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Seeing the light..... - Unconference</title>
+ <link>http://fossevents.in/taxonomy/term/3/0</link>
+ <description>Unconference type of event</description>
+ <language>en</language>
+<item>
+ <title>FOSSMeet 2013</title>
+ <link>http://fossevents.in/node/436</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Fri, 22/02/2013 - 17:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 24/02/2013 - 18:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;FOSSMeet is an annual event at NIT Calicut that brings together the Free and Open Source Community from around the country. It was started in 2005 to encourage contribution to free and open source software. The last 7 editions were hugely successful and brought together a lot of enthusiasts.&lt;/p&gt;
+&lt;p&gt;Upholding the philosophy of FOSS, the event will have talks and workshops dealing with the current trends in FOSS and open hardware, hands-on sessions to develop skills and a place to meet like minded people.&lt;/p&gt;
+&lt;p&gt;Visit &lt;a href=&quot;http://fossmeet.in&quot; title=&quot;http://fossmeet.in&quot;&gt;http://fossmeet.in&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/1">Conference</category>
+ <category domain="http://fossevents.in/taxonomy/term/6">Exhibition</category>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <category domain="http://fossevents.in/taxonomy/term/4">Meetup</category>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <category domain="http://fossevents.in/taxonomy/term/5">Workshop</category>
+ <pubDate>Sat, 19 Jan 2013 08:19:19 +0000</pubDate>
+ <dc:creator>shamilcm</dc:creator>
+ <guid isPermaLink="false">436 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>MozCamp Delhi the community in Delhi comes together on 19th Jan 2013</title>
+ <link>http://fossevents.in/node/433</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Thu, 03/01/2013 - 09:45&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;After having to cancel the previous MozCamp in between, we are back again with a new MozCamp. This time we are doing it in Amity, Noida on the 19th of January 2013.&lt;/p&gt;
+&lt;p&gt;Updates on session plans and proposed hackathons will be put up soon. Keep watching, and meanwhile – register!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://delhi.mozillaindia.org/register/&quot; title=&quot;http://delhi.mozillaindia.org/register/&quot;&gt;http://delhi.mozillaindia.org/register/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Thu, 03 Jan 2013 04:19:13 +0000</pubDate>
+ <dc:creator>administrator</dc:creator>
+ <guid isPermaLink="false">433 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Drupal Camp Delhi</title>
+ <link>http://fossevents.in/node/373</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Sat, 08/12/2012 - &lt;span class=&quot;date-display-start&quot;&gt;09:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;18:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;The aim of this group is to bring together all Drupal Enthusiasts located in and around Delhi, India. Drupal Users and Developers based around Delhi such as in the NCR , new Delhi, Noida, Gurgaon are welcome to join and help each other by sharing their views .Main focus are of this group will be to promote Drupal as a whole and collaborate for Drupal development.&lt;/p&gt;
+&lt;p&gt;more details from &lt;a href=&quot;http://drupalcampdelhi.in&quot; title=&quot;http://drupalcampdelhi.in&quot;&gt;http://drupalcampdelhi.in&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Sat, 03 Nov 2012 05:45:48 +0000</pubDate>
+ <dc:creator>administrator</dc:creator>
+ <guid isPermaLink="false">373 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Spoken Tutorial Workshops on FOSS by IIT Bombay for FREE</title>
+ <link>http://fossevents.in/node/354</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Mon, 01/10/2012 - 14:47&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Wed, 10/10/2012 - 07:47&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Greetings from IIT Bombay!&lt;br /&gt;
+         Let me introduce an amazing project of National importance, viz. &#039;Spoken Tutorial&#039;. This project is teaching Free &amp;amp; Open Source Software like Linux, Scilab and Php &amp;amp; MySQL to all college students of India.&lt;/p&gt;
+&lt;p&gt;        The mode of training is through workshops, held at individual college campuses, with guidance and materials provided by IIT Bombay. These workshops are of 2 hour duration and totally free of cost, as this project is sponsored by M.H.R.D, Govt. of India.  Students need not leave their college campus, to attend these workshops.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/354&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Wed, 26 Sep 2012 09:21:28 +0000</pubDate>
+ <dc:creator>SpokenTutorial</dc:creator>
+ <guid isPermaLink="false">354 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>MozCamp Delhi the community in delhi comes together on september 22-23</title>
+ <link>http://fossevents.in/node/351</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Sat, 22/09/2012 - 10:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 23/09/2012 - 18:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;MozCamp Delhi is the conclusion of the various Mozilla Summer Code parties that were organised in Delhi NCR region from June-September 2012.&lt;/p&gt;
+&lt;p&gt;It will bring together existing contributors and volunteers and all those who have an interest in the web to get together to create something good for the open web and have fun.&lt;/p&gt;
+&lt;p&gt;MozCamp Delhi will be a 2day unconference about the web and the road its on.&lt;/p&gt;
+&lt;p&gt;more details &lt;a href=&quot;http://delhi.mozillaindia.org/&quot; title=&quot;http://delhi.mozillaindia.org/&quot;&gt;http://delhi.mozillaindia.org/&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Mon, 17 Sep 2012 08:28:41 +0000</pubDate>
+ <dc:creator>administrator</dc:creator>
+ <guid isPermaLink="false">351 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>free course at weekend</title>
+ <link>http://fossevents.in/node/329</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Fri, 01/06/2012 - &lt;span class=&quot;date-display-start&quot;&gt;03:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;05:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Dear all, open novus a leading open source development and training company offers weekend meetup and this meetup is to be arranged with the theme of &quot;python for dummies&quot;..an introduction session is going there this week at our office premises(3,ramamurthy avenue,sakthi nagar,nearby icici bank,porur,chennai)..further advancement will be in forthcoming week..all are welcome to get a bite from python.&lt;br /&gt;
+Note-bring your laptop,entry free. for more details contact 9944236897&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/4">Meetup</category>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Tue, 29 May 2012 01:04:28 +0000</pubDate>
+ <dc:creator>Opennovus</dc:creator>
+ <guid isPermaLink="false">329 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>AndroidCamp , Bangalore , April 1 2011 .</title>
+ <link>http://fossevents.in/node/32</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Fri, 01/04/2011 - &lt;span class=&quot;date-display-start&quot;&gt;09:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;18:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;AndroidCamp is a participant-supported unconference. If you&#039;ve never been&lt;br /&gt;
+to one before, here is a quick primer. An unconference reverses the&lt;br /&gt;
+traditional structure of a conference. There is no distinction between&lt;br /&gt;
+speakers and audience at AndroidCamp. Everyone is a participant and has&lt;br /&gt;
+equal say in what happens at the event. Anyone can speak on any topic.&lt;/p&gt;
+&lt;p&gt;This means that there is no pre-determined event schedule either.&lt;br /&gt;
+Instead, you turn up on the morning of the event and propose a session&lt;br /&gt;
+for any of the available time slots. That session now becomes yours to&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/32&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Tue, 15 Mar 2011 13:06:03 +0000</pubDate>
+ <dc:creator>satyaakam</dc:creator>
+ <guid isPermaLink="false">32 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>OSSCamp Manav Rachna Faridabad</title>
+ <link>http://fossevents.in/node/27</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Sat, 12/03/2011 - 02:05&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 13/03/2011 - 02:05&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;OSScamp is a thriving, young and vibrant community of open source enthusiasts in India. The community revolves around &#039;unconferences&#039; that we love to call camps.&lt;/p&gt;
+&lt;p&gt;At a Camp, we love to cross-talk, huddle together, raise some noise, celebrate technology, argue over how Linux is the coolest OS ever made, fight on our fav programming languages, discuss stuff, and what not! We are a year old, learning to walk, baby speaking on loud, and with a cape tied on our backs, we dream of soaring high in the sky.&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Fri, 04 Mar 2011 20:38:35 +0000</pubDate>
+ <dc:creator>Prashantgarg</dc:creator>
+ <guid isPermaLink="false">27 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>FOSS Camp at AMITY University , Noida</title>
+ <link>http://fossevents.in/node/18</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Thu, 17/02/2011 - 10:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Fri, 18/02/2011 - 17:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Do you have Linus Torvalds and Richard Stallman as role models?&lt;br /&gt;
+Does your attention spring up on the mention of FOSS and Linux?&lt;br /&gt;
+Is getting together with tech-geeks, hacking  and discussing FOSS &amp;amp; Linux your idea of a party?&lt;br /&gt;
+Then you know exactly what we am talking about :)&lt;br /&gt;
+We, the Linux Club (ALiAS) at Amity present a two day camp where you will get to meet with the eminent contributors from the community.&lt;br /&gt;
+Come aboard  and have fun !!!&lt;br /&gt;
+We shall also have installation and introductory sessions , so even if you are a n00b you need not feel alienated ... you are welcome too.&lt;/p&gt;
+&lt;p&gt;VENUE&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/18&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Thu, 17 Feb 2011 13:14:46 +0000</pubDate>
+ <dc:creator>bhanuvrat</dc:creator>
+ <guid isPermaLink="false">18 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>OSSCamp Lucknow 11.03</title>
+ <link>http://fossevents.in/node/16</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Sat, 26/03/2011 - 11:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 27/03/2011 - 18:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;First OSScamp at Lucknow. Taking place at Auditorium , Babu Banarsi Das Group of Institutions, Faizabad Road , Lucknow.  We at , OSScamp Lucknow welcome all participants. We expect a huge gathering of Open Source community at Lucknow.&lt;/p&gt;
+&lt;p&gt;We are a developing community and look forward to your support and presence.&lt;/p&gt;
+&lt;p&gt;Address:&lt;/p&gt;
+&lt;p&gt;Dr.Akhilesh Das Auditorium,&lt;/p&gt;
+&lt;p&gt;Sector 1, Dr. Akhilesh Das Nagar, Faizabad Road,&lt;/p&gt;
+&lt;p&gt;Lucknow - 227105&lt;/p&gt;
+&lt;p&gt;Link&lt;br /&gt;
+&lt;a href=&quot;http://osscamp.in/event/osscamp-lucknow-1103&quot; title=&quot;http://osscamp.in/event/osscamp-lucknow-1103&quot;&gt;http://osscamp.in/event/osscamp-lucknow-1103&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Mon, 07 Feb 2011 16:03:54 +0000</pubDate>
+ <dc:creator>aditya</dc:creator>
+ <guid isPermaLink="false">16 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>Open Source Awareness Camp for Girls, Mohali</title>
+ <link>http://fossevents.in/node/15</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-single&quot;&gt;Sat, 05/02/2011 - &lt;span class=&quot;date-display-start&quot;&gt;11:30&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;16:00&lt;/span&gt;&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Girls generally do not have enough knowledge about the open source world. To make them an active part of the open source world, we are organizing this Free Open Source Awareness Camp for girls at the women engineering college of our campus to encourage open source learning and usage by our college students. This is going to be the first open source event exclusively for girls in the region, and we are determined to this a regular activity in the college to promote open source.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/15&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <pubDate>Tue, 01 Feb 2011 14:02:48 +0000</pubDate>
+ <dc:creator>gkcgautam</dc:creator>
+ <guid isPermaLink="false">15 at http://fossevents.in</guid>
+</item>
+</channel>
+</rss>

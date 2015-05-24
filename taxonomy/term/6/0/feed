@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://fossevents.in"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Seeing the light..... - Exhibition</title>
+ <link>http://fossevents.in/taxonomy/term/6/0</link>
+ <description>Exhibition type of event</description>
+ <language>en</language>
+<item>
+ <title>Software Freedom Day 2014 Celebrations In Cochin</title>
+ <link>http://fossevents.in/node/875</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Sun, 21/09/2014 - 12:56&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Mon, 22/09/2014 - 12:56&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;It is our great pleasure to welcome you to the Software Freedom Day (SFD) celebration organized by Angamaly Linux User Group in association with &lt;a href=&quot;http://itpublic.in&quot; title=&quot;http://itpublic.in&quot;&gt;http://itpublic.in&lt;/a&gt; and GNUPARK on September 20, 21, 22 2014. (20th at Angamaly and 21st ,22nd 2014 at CUSAT.)&lt;/p&gt;
+&lt;p&gt;Celebration At Angamaly.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://wiki.softwarefreedomday.org/2014/India/Cochin/Angamaly&quot; title=&quot;http://wiki.softwarefreedomday.org/2014/India/Cochin/Angamaly&quot;&gt;http://wiki.softwarefreedomday.org/2014/India/Cochin/Angamaly&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://angamaly.lug.org.in/software-freedom-day-2014/&quot; title=&quot;http://angamaly.lug.org.in/software-freedom-day-2014/&quot;&gt;http://angamaly.lug.org.in/software-freedom-day-2014/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Celebration At CUSAT, Thrikkakara&lt;br /&gt;
+&lt;a href=&quot;http://wiki.softwarefreedomday.org/2014/India/Cochin/Thrikkakara/MakerPartyKochi&quot; title=&quot;http://wiki.softwarefreedomday.org/2014/India/Cochin/Thrikkakara/MakerPartyKochi&quot;&gt;http://wiki.softwarefreedomday.org/2014/India/Cochin/Thrikkakara/MakerPa...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://angamaly.lug.org.in/2014/09/alug-meeting-september-2014/&quot; title=&quot;http://angamaly.lug.org.in/2014/09/alug-meeting-september-2014/&quot;&gt;http://angamaly.lug.org.in/2014/09/alug-meeting-september-2014/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://fossevents.in/node/875&quot; target=&quot;_blank&quot;&gt;read more&lt;/a&gt;&lt;/p&gt;</description>
+ <category domain="http://fossevents.in/taxonomy/term/6">Exhibition</category>
+ <pubDate>Fri, 19 Sep 2014 07:27:42 +0000</pubDate>
+ <dc:creator>librecochin</dc:creator>
+ <guid isPermaLink="false">875 at http://fossevents.in</guid>
+</item>
+<item>
+ <title>FOSSMeet 2013</title>
+ <link>http://fossevents.in/node/436</link>
+ <description>&lt;div class=&quot;field field-type-datetime field-field-event-date&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Event date:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    &lt;span class=&quot;date-display-start&quot;&gt;Fri, 22/02/2013 - 17:00&lt;/span&gt;&lt;span class=&quot;date-display-separator&quot;&gt; - &lt;/span&gt;&lt;span class=&quot;date-display-end&quot;&gt;Sun, 24/02/2013 - 18:00&lt;/span&gt;        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;FOSSMeet is an annual event at NIT Calicut that brings together the Free and Open Source Community from around the country. It was started in 2005 to encourage contribution to free and open source software. The last 7 editions were hugely successful and brought together a lot of enthusiasts.&lt;/p&gt;
+&lt;p&gt;Upholding the philosophy of FOSS, the event will have talks and workshops dealing with the current trends in FOSS and open hardware, hands-on sessions to develop skills and a place to meet like minded people.&lt;/p&gt;
+&lt;p&gt;Visit &lt;a href=&quot;http://fossmeet.in&quot; title=&quot;http://fossmeet.in&quot;&gt;http://fossmeet.in&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+ <category domain="http://fossevents.in/taxonomy/term/1">Conference</category>
+ <category domain="http://fossevents.in/taxonomy/term/6">Exhibition</category>
+ <category domain="http://fossevents.in/taxonomy/term/2">Hackathon</category>
+ <category domain="http://fossevents.in/taxonomy/term/4">Meetup</category>
+ <category domain="http://fossevents.in/taxonomy/term/3">Unconference</category>
+ <category domain="http://fossevents.in/taxonomy/term/5">Workshop</category>
+ <pubDate>Sat, 19 Jan 2013 08:19:19 +0000</pubDate>
+ <dc:creator>shamilcm</dc:creator>
+ <guid isPermaLink="false">436 at http://fossevents.in</guid>
+</item>
+</channel>
+</rss>
